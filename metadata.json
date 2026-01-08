@@ -1,0 +1,7 @@
+{
+  "name": "BioChe Academy",
+  "description": "An interactive learning platform for Biology and Chemistry students from grades 6 to 10, featuring AI-powered tutoring and a comprehensive curriculum.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
